@@ -19,7 +19,7 @@ This project adds advanced directory handling and media support capabilities to 
 ## Grant Information
 
 Sia Foundation Standard Grant - Enhanced s5.js  
-Grant Period: May 2025 - December 2025
+Grant Period: June 2025 - Jan 2026
 
 ## Implementation
 
