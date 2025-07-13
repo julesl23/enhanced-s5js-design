@@ -21,6 +21,14 @@ This project adds advanced directory handling and media support capabilities to 
 Sia Foundation Standard Grant - Enhanced s5.js  
 Grant Period: June 2025 - Jan 2026
 
-## Implementation
+## Implementation Status
 
-The actual implementation code will be submitted as pull requests to the upstream [s5-dev/s5.js](https://github.com/s5-dev/s5.js) repository.
+The Enhanced S5.js design is currently being implemented as part of a Sia Foundation grant.
+
+**Active Development Fork**: [github.com/julesl23/s5.js](https://github.com/julesl23/s5.js)
+
+- **Status**: Phase 1 (Core Infrastructure) complete
+- **Current Phase**: Phase 2 (Path-Based API) 
+- **Expected PR**: End of Milestone 2 (~2 weeks)
+
+Progress is being tracked in the fork's [IMPLEMENTATION.md](https://github.com/julesl23/s5.js/blob/main/docs/IMPLEMENTATION.md).
